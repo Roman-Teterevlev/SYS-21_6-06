@@ -45,3 +45,6 @@ spec:
 4. Запустите чарт в своём кластере и добейтесь его стабильной работы.
 5. В качестве ответа пришлите вывод команды ``` helm get manifest <имя_релиза> ```.
 ### Ответ:
+![6-06_2 1](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/ba7127ea-f1e7-44e5-9bf5-484085de60b6)
+![6-06_2 2](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/db1fe8e3-5589-4a51-96a3-734421264307)
+![6-06_2 3](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/7094e593-7f07-4959-90dd-c0ae13a189dd)
