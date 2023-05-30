@@ -7,6 +7,11 @@ Kubernetes. Часть 2
 3. Добейтесь стабильной работы кластера.
 4. В качестве ответа пришлите скриншот результата выполнения команды ``` kubectl get po -n kube-system ```.
 ### Ответ:
+![6-06_1 1](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/20f181e5-cea6-4799-ace0-c2400d681023)
+![6-06_1 2](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/bcff1759-646b-4516-a592-636955eb096c)
+![6-06_1 3](https://github.com/Roman-Teterevlev/SYS_6-06/assets/132853752/c150d06e-9ce9-4300-bc8b-cc78d87a7c84)
+## Задание 2
+
 Есть файл с деплоем:
 ```
 ---
